@@ -1,0 +1,6 @@
+print("Actividad 3")
+print("Ejercicio 1: conversion")
+
+metros1 = int(input ("Ingrese Metros:") )
+km = metros1 / 1000
+print(f"km = {km}")
